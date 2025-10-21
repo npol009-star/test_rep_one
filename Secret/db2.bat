@@ -1,4 +1,4 @@
 rem @echo off
 @echo on
-md C:\Users\%UserName%\AppData\db3
+md C:\Users\%UserName%\AppData\db4
 pause
